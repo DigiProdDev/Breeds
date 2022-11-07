@@ -16,8 +16,8 @@ target 'Breeds' do
   }
 end
 
-target 'BreedsTests' do
-  pod 'Quick', '~> 3.0'
-  pod 'Nimble', '~>8.1.1'
-  pod 'Nimble-Snapshots', '~> 8.2.1'
-end
+# target 'BreedsTests' do
+#   pod 'Quick', '~> 3.0'
+#   pod 'Nimble', '~>8.1.1'
+#   pod 'Nimble-Snapshots', '~> 8.2.1'
+# end
